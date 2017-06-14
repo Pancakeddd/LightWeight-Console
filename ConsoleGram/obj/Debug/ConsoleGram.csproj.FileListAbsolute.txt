@@ -1,0 +1,8 @@
+c:\users\nathanmoosh\documents\visual studio 2017\Projects\ConsoleGram\ConsoleGram\bin\Debug\ConsoleGram.exe.config
+c:\users\nathanmoosh\documents\visual studio 2017\Projects\ConsoleGram\ConsoleGram\bin\Debug\ConsoleGram.exe
+c:\users\nathanmoosh\documents\visual studio 2017\Projects\ConsoleGram\ConsoleGram\bin\Debug\ConsoleGram.pdb
+c:\users\nathanmoosh\documents\visual studio 2017\Projects\ConsoleGram\ConsoleGram\obj\Debug\ConsoleGram.csprojResolveAssemblyReference.cache
+c:\users\nathanmoosh\documents\visual studio 2017\Projects\ConsoleGram\ConsoleGram\obj\Debug\ConsoleGram.exe
+c:\users\nathanmoosh\documents\visual studio 2017\Projects\ConsoleGram\ConsoleGram\obj\Debug\ConsoleGram.pdb
+c:\users\nathanmoosh\documents\visual studio 2017\Projects\ConsoleGram\ConsoleGram\obj\Debug\ConsoleGram.Properties.Resources.resources
+c:\users\nathanmoosh\documents\visual studio 2017\Projects\ConsoleGram\ConsoleGram\obj\Debug\ConsoleGram.csproj.GenerateResource.Cache
